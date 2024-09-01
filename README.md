@@ -16,7 +16,7 @@ How to Use
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/portfolio-website.git
+git clone file:///C:/Users/thiru/OneDrive/Desktop/emc/portfolio.html
 Open index.html in your web browser to view the website.
 Contributing
 If you have any suggestions for improvements or additional features, feel free to fork the repository and create a pull request.
